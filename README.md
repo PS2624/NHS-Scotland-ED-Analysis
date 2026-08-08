@@ -73,3 +73,7 @@ NHS-Scotland-ED-Analysis/
 ├── NHS_Scotland_Emergency_Department_Performance_Dashboard.pbix
 └── README.md
 ```
+
+## Dashboard Preview
+
+![NHS Scotland Emergency Department Dashboard](./Images/dashboard_overview.png)
